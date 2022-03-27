@@ -1,1 +1,1 @@
-![Jackal](https://github.com/mosesmrima/Jackal/blob/main/img/logo.jpg)
+<img src="https://github.com/mosesmrima/Jackal/blob/main/img/logo.jpg">
