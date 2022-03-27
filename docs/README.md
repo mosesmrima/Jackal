@@ -1,1 +1,1 @@
-Pages
+![Jackal](../img/logo.jpg)
