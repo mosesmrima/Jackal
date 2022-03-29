@@ -10,17 +10,24 @@
 
 <center><h2 id="features"> Features </h2></center>
 
-<h3> Preprocessor </h3>
+<center><h3> Preprocessor </h3></center>
+
+<center><img src="https://raw.githubusercontent.com/mosesmrima/Jackal/main/img/preprocessing.png"></center>
+
 <p>
   Indentation and comments are very essential components for readable code, especially while writing assembly code. Indentation and comments are only useful to the programmer and or the code editor, but totally useless to the computer. Jackall by default is designed to ignore all comments and redundant whitespaces.
 <p/>
 
-<h3>Variables</h3>
+
+
+<center><h3>Variables</h3></center>
+<center><img src="https://raw.githubusercontent.com/mosesmrima/Jackal/main/img/variables.png"></center>
 <p>
 Variables can be thought of as named memory locations, therefore, Jackal replaces all user-defined variables with the next available memory location, starting from address 0x16.
 </p>
 
-<h3>Labels</h3>
+<center><h3>Labels</h3></center>
+<center><img src="https://raw.githubusercontent.com/mosesmrima/Jackal/main/img/labels.png"></center>
 <p>
   Labels are used to indicate the destination of a jump instruction, i.e the next instruction to be executed when a jump condition is satisfied. Therefore labels are replaced by the number of the next instruction from where they are defined.
 </p>
@@ -38,7 +45,7 @@ Variables can be thought of as named memory locations, therefore, Jackal replace
 <br>
 <center>
 <span  align="left">
- <a style="color:black" href="linkedin.com/in/mosesmbanga">
+ <a style="color:black" href="https://www.linkedin.com/in/mrima/">
 <span style="
 background-color:#B5E853;
 border-radius:50px;
@@ -46,10 +53,10 @@ padding-right:2.5em;
 padding-left:2.5em;
 padding-top:.85em;
 padding-bottom:.85em;
-">Linkdedin  </span>
+">Linkedin  </span>
 </a>
  </span>     <span style="padding: 30px" align="center">
-             <a style="color:black" href="https://github.com/mosesmrima/mi_fuse">
+             <a style="color:black" href="https://github.com/mosesmrima/Jackal">
             <span style="
             background-color:#B5E853;
             border-radius:50px;
